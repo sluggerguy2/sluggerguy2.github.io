@@ -1,0 +1,37 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.price {
+  font-weight: bold;
+  color: blue;
+}
+
+#springgreen {
+  background-color: mediumspringgreen;
+}
+
+#lightcoral {
+  background-color: lightcoral;
+}
+
+#skyblue {
+  background-color: skyblue;
+}
+
+#patternbg {
+  background-image: url("../images/pattern.webp")
+}
